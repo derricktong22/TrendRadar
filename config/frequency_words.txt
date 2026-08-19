@@ -153,11 +153,27 @@
 #                         企业与品牌
 # ═══════════════════════════════════════════════════════════════
 
-/胖东来|于东来/ => 胖东来
+/智谱|唐杰|\bGLM\b|\bZ.AI\b/ => 智谱
+
+/星野|\b海螺AI\b|闫俊杰|\bMiniMax\b/ => MiniMax
+
+/月之暗面|杨植麟|\bKIMI\b/ => KIMI
+
+/阶跃星辰|印奇|姜大昕|千里科技|\b阶跃AI\b/ => 阶跃星辰
+
+/昆仑万维|周亚辉|方汉|\b天工AIb\|\bMureka\b|\bDramaWave\b/ => 昆仑万维
 
 /深度求索|幻方量化|梁文锋|\bDeepSeek\b/ => DeepSeek
 
-/华为|任正非|余承东|鸿蒙|海思|昇腾|鲲鹏|\bHUAWEI\b|\bHarmonyOS\b|\bHiSilicon\b/ => 华为
+/元宝|混元|马化腾|刘炽平|姚顺雨|腾讯云|\bWorkBuddyb\|\bTencent\b/ => 腾讯
+
+/千问|马云|蔡崇信|吴泳铭|周靖人|王坚|通义|阿里云|夸克|\bQwenb\|\bHappyHorse\b|\bAlibaba\b/ => 阿里巴巴
+
+/文心|萝卜快跑|百度云|百度智能云|昆仑芯|李彦宏|千帆|王海峰|\bERNIEb\|\bBAIDU\b/ => 百度
+
+/豆包|火山引擎|字节跳动|张一鸣|梁汝波|飞书|\bSeeDanceb\|\bByteDance\b/ => 字节跳动
+
+/华为|任正非|余承东|鸿蒙|海思|昇腾|鲲鹏|盘古|\bHUAWEI\b|\bHarmonyOS\b|\bHiSilicon\b/ => 华为
 
 /比亚迪|王传福|方程豹|腾势|仰望|弗迪|刀片电池|云辇|\bBYD\b|\bDenza\b|\bYangwang\b/ => 比亚迪
 
