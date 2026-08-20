@@ -189,6 +189,8 @@
 
 /京东|刘强东|许冉|\bJoyAI\b|\bJD\b/ => 京东
 
+/拼多多|黄峥|陈磊|赵佳臻|\bpinduoduo\b|\bpdd\b/ => 拼多多
+
 /\bOpenAI\b|\bChatGPT\b|\bCodex\b|\bDALL-E\b|\bSam Altman\b|\bGreg Brockman\b/ => OpenAI
 
 /\bAnthropic\b|\bClaude\b|\bDario Amodei\b/ => Anthropic
