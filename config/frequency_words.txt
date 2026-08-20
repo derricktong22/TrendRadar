@@ -313,6 +313,8 @@
 
 /库克|\biPhone\b|\biPad\b|\bMacBook\b|\biOS\b|\bVision Pro\b|\bAirPods\b|\bApple\b|\bTim Cook\b/ => 苹果
 
+/亚马逊|\bAmazon\b|贝佐斯|贝索斯|\bBezos\b|\bAndy Jassy\b|\bAWS\b/ => 亚马逊
+
 
 # ═══════════════════════════════════════════════════════════════
 #                         国家与地区
