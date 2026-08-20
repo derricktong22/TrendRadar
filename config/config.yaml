@@ -209,18 +209,6 @@ rss:
       name: "晚点LatePost"
       url: "https://rsshub.app/latepost/news"
       
-    - id: "ifanr"
-      name: "爱范儿"
-      url: "https://www.ifanr.com/feed"
-      
-    - id: "sspai"
-      name: "少数派"
-      url: "https://sspai.com/feed"
-      
-    - id: "ithome"
-      name: "IT之家"
-      url: "https://www.ithome.com/rss/"
-      
     - id: "leiphone"
       name: "雷锋网"
       url: "http://www.leiphone.com/feed/"
@@ -228,6 +216,46 @@ rss:
     - id: "geekpark"
       name: "极客公园"
       url: "http://www.geekpark.net/rss"
+
+    - id: "sina"
+      name: "新浪新闻"
+      url: "http://rss.sina.com.cn/index.shtml"
+      
+    - id: "netease"
+      name: "网易新闻"
+      url: "http://www.163.com/rss"
+      
+    - id: "tencent"
+      name: "腾讯新闻"
+      url: "http://rss.qq.com/"
+      
+    - id: "ifeng"
+      name: "凤凰网资讯"
+      url: "http://news.ifeng.com/rss/index.xml"
+      
+    - id: "sohu"
+      name: "搜狐新闻"
+      url: "http://rss.news.sohu.com/"
+
+    - id: "cls"
+      name: "财联社电报"
+      url: "https://rss.injahow.cn/cls"
+      
+    - id: "eastmoney"
+      name: "东方财富7x24"
+      url: "https://rss.injahow.cn/em"
+      
+    - id: "10jqka"
+      name: "同花顺7x24"
+      url: "https://rss.injahow.cn/10jqka"
+      
+    - id: "xueqiu"
+      name: "雪球热门话题"
+      url: "https://xueqiu.com/hots/topic/rss"
+
+    - id: "tmtpost"
+      name: "钛媒体"
+      url: "https://www.tmtpost.com/feed" 
 
     # 自定义源示例
     # - id: "custom-feed"
