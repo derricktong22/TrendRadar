@@ -160,10 +160,6 @@ rss:
     - id: "leiphone"
       name: "雷锋网"
       url: "http://www.leiphone.com/feed/"
-
-    - id: "iyiou"
-      name: "亿欧网"
-      url: "https://www.iyiou.com/feed"
       
     - id: "geekpark"
       name: "极客公园"
@@ -196,10 +192,6 @@ rss:
     - id: "bloomberg_wealth"
       name: "彭博财富"
       url: "https://feeds.bloomberg.com/wealth/news.rss"
-      
-    - id: "wsj_markets"
-      name: "华尔街日报市场"
-      url: "https://feeds.wsj.com/wsj/xml/rss/3_7014.xml"
 
     - id: "techcrunch"
       name: "TechCrunch"
