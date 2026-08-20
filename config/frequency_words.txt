@@ -191,6 +191,8 @@
 
 /拼多多|黄峥|陈磊|赵佳臻|\bpinduoduo\b|\bpdd\b/ => 拼多多
 
+/小红书|毛文超|瞿芳|\bRED\b|\bREDnote\b|\bxiaohongshu\b/ => 小红书
+
 /\bOpenAI\b|\bChatGPT\b|\bCodex\b|\bDALL-E\b|\bSam Altman\b|\bGreg Brockman\b/ => OpenAI
 
 /\bAnthropic\b|\bClaude\b|\bDario Amodei\b/ => Anthropic
