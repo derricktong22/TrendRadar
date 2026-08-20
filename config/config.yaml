@@ -177,6 +177,62 @@ rss:
       name: "钛媒体"
       url: "https://www.tmtpost.com/feed" 
 
+    - id: "reuters_business"
+      name: "路透社商业新闻"
+      url: "https://feeds.reuters.com/reuters/businessNews"
+      
+    - id: "cnbc_headlines"
+      name: "CNBC 头条"
+      url: "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+      
+    - id: "ft_home"
+      name: "金融时报 (FT)"
+      url: "https://www.ft.com/rss/home"
+      
+    - id: "bloomberg_markets"
+      name: "彭博市场"
+      url: "https://feeds.bloomberg.com/markets/news.rss"
+      
+    - id: "bloomberg_wealth"
+      name: "彭博财富"
+      url: "https://feeds.bloomberg.com/wealth/news.rss"
+      
+    - id: "wsj_markets"
+      name: "华尔街日报市场"
+      url: "https://feeds.wsj.com/wsj/xml/rss/3_7014.xml"
+
+    - id: "techcrunch"
+      name: "TechCrunch"
+      url: "https://techcrunch.com/feed/"
+      
+    - id: "theverge"
+      name: "The Verge"
+      url: "https://www.theverge.com/rss/index.xml"
+      
+    - id: "wired"
+      name: "Wired"
+      url: "https://www.wired.com/feed/rss"
+      
+    - id: "bloomberg_tech"
+      name: "彭博科技"
+      url: "https://feeds.bloomberg.com/technology/news.rss"
+
+    - id: "openai_blog"
+      name: "OpenAI 博客"
+      url: "https://openai.com/news/rss.xml"
+      
+    - id: "deepmind_blog"
+      name: "Google DeepMind"
+      url: "https://deepmind.google/blog/rss.xml"
+      
+    - id: "google_ai_blog"
+      name: "Google AI 博客"
+      url: "https://blog.google/technology/ai/rss/"
+      
+    - id: "huggingface_blog"
+      name: "Hugging Face 博客"
+      url: "https://huggingface.co/blog/feed.xml"
+
     # 自定义源示例
     # - id: "custom-feed"
     #   name: "自定义源"
