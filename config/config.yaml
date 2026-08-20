@@ -141,73 +141,13 @@ rss:
       name: "雅虎财经"
       url: "https://finance.yahoo.com/news/rssindex"
 
-    - id: "36kr_all"
-      name: "36氪综合"
-      url: "https://36kr.com/feed"
-      
-    - id: "36kr_article"
-      name: "36氪文章"
-      url: "https://36kr.com/feed-article"
-      
-    - id: "36kr_newsflash"
-      name: "36氪快讯"
-      url: "https://36kr.com/feed-newsflash"
-
-    - id: "huxiu"
-      name: "虎嗅"
-      url: "https://rsshub.app/huxiu/article"
-
-    - id: "wallstreetcn"
-      name: "华尔街见闻"
-      url: "https://rsshub.app/wallstreetcn/news"
-      
-    - id: "yicai"
-      name: "第一财经"
-      url: "https://rsshub.app/yicai/news"
-      
-    - id: "jiemian"
-      name: "界面新闻"
-      url: "https://rsshub.app/jiemian/news"
-      
-    - id: "caixin"
-      name: "财新网"
-      url: "https://rsshub.app/caixin/article"
-      
-    - id: "gelonghui"
-      name: "格隆汇"
-      url: "https://rsshub.app/gelonghui"
-      
-    - id: "eeo"
-      name: "经济观察报"
-      url: "https://www.eeo.com.cn/rss"
-      
-    - id: "21jingji"
-      name: "21世纪经济报道"
-      url: "https://www.21jingji.com/rss"
-      
-    - id: "nbd"
-      name: "每日经济新闻"
-      url: "https://www.nbd.com.cn/rss"
+    - id: "36kr"
+      name: "36氪"
+      url: "https://rsshub.rssforever.com/36kr/news/technology"
       
     - id: "chinanews_finance"
       name: "中国新闻网财经"
       url: "https://www.chinanews.com.cn/rss/finance.xml"
-      
-    - id: "thepaper"
-      name: "澎湃新闻"
-      url: "https://rsshub.app/thepaper/news"
-      
-    - id: "guancha"
-      name: "观察者网"
-      url: "https://rsshub.app/guancha"
-      
-    - id: "cankaoxiaoxi"
-      name: "参考消息"
-      url: "https://rsshub.app/cankaoxiaoxi"
-
-    - id: "latepost"
-      name: "晚点LatePost"
-      url: "https://rsshub.app/latepost/news"
       
     - id: "leiphone"
       name: "雷锋网"
@@ -216,38 +156,6 @@ rss:
     - id: "geekpark"
       name: "极客公园"
       url: "http://www.geekpark.net/rss"
-
-    - id: "sina"
-      name: "新浪新闻"
-      url: "http://rss.sina.com.cn/index.shtml"
-      
-    - id: "netease"
-      name: "网易新闻"
-      url: "http://www.163.com/rss"
-      
-    - id: "tencent"
-      name: "腾讯新闻"
-      url: "http://rss.qq.com/"
-      
-    - id: "ifeng"
-      name: "凤凰网资讯"
-      url: "http://news.ifeng.com/rss/index.xml"
-      
-    - id: "sohu"
-      name: "搜狐新闻"
-      url: "http://rss.news.sohu.com/"
-
-    - id: "cls"
-      name: "财联社电报"
-      url: "https://rss.injahow.cn/cls"
-      
-    - id: "eastmoney"
-      name: "东方财富7x24"
-      url: "https://rss.injahow.cn/em"
-      
-    - id: "10jqka"
-      name: "同花顺7x24"
-      url: "https://rss.injahow.cn/10jqka"
       
     - id: "xueqiu"
       name: "雪球热门话题"
