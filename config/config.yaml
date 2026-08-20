@@ -153,6 +153,10 @@ rss:
       name: "36氪快讯"
       url: "https://36kr.com/feed-newsflash"
 
+    - id: "huxiu"
+      name: "虎嗅"
+      url: "https://rsshub.app/huxiu/article"
+
     # 自定义源示例
     # - id: "custom-feed"
     #   name: "自定义源"
