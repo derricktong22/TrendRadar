@@ -141,6 +141,18 @@ rss:
       name: "雅虎财经"
       url: "https://finance.yahoo.com/news/rssindex"
 
+    - id: "36kr_all"
+      name: "36氪综合"
+      url: "https://36kr.com/feed"
+      
+    - id: "36kr_article"
+      name: "36氪文章"
+      url: "https://36kr.com/feed-article"
+      
+    - id: "36kr_newsflash"
+      name: "36氪快讯"
+      url: "https://36kr.com/feed-newsflash"
+
     # 自定义源示例
     # - id: "custom-feed"
     #   name: "自定义源"
