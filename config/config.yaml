@@ -160,6 +160,10 @@ rss:
     - id: "leiphone"
       name: "雷锋网"
       url: "http://www.leiphone.com/feed/"
+
+    - id: "iyiou"
+      name: "亿欧网"
+      url: "https://www.iyiou.com/feed"
       
     - id: "geekpark"
       name: "极客公园"
