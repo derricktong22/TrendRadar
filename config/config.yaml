@@ -143,7 +143,7 @@ rss:
 
     - id: "36kr"
       name: "36氪"
-      url: "https://rsshub.rssforever.com/36kr/news/technology"
+      url: "https://rsshub.feeded.xyz/36kr/news/latest"
       
     - id: "huxiu"
       name: "虎嗅"
@@ -155,7 +155,7 @@ rss:
       
     - id: "jiemian"
       name: "界面新闻"
-      url: "https://rsshub.rssforever.com/jiemian/news"
+      url: "https://rsshub.feeded.xyz/jiemian/news"
       
     - id: "guancha"
       name: "观察者网"
@@ -163,7 +163,7 @@ rss:
       
     - id: "latepost"
       name: "晚点LatePost"
-      url: "https://rsshub.rssforever.com/latepost/news"
+      url: "https://rsshub.feeded.xyz/latepost/news"
       
     - id: "chinanews_finance"
       name: "中国新闻网财经"
