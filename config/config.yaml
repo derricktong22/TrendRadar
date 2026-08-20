@@ -156,10 +156,6 @@ rss:
     - id: "chinanews_finance"
       name: "中国新闻网财经"
       url: "https://www.chinanews.com.cn/rss/finance.xml"
-
-    - id: "iyiou"
-      name: "亿欧网"
-      url: "https://rsshub.app/iyiou"
       
     - id: "leiphone"
       name: "雷锋网"
